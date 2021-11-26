@@ -11,7 +11,9 @@ I worked with a dataset that I got from IMDB API.
 After building the model, I analyzed another dataset for checking streaming content trends on Netflix and Amazon Prime (link : https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney).
 
 ### Dataset
-The data set consists of information on 8.000 films from 1990 until 2020. The information of the datased includes both categorical and numerical variables to analyse indicated below:
+The data set consists of information on 8.000 films from 1990 until 2020. 
+
+The information of the datased includes both categorical and numerical variables to analyse indicated below:
 
 |Column | Description |	
 ------------- | -------------| 
