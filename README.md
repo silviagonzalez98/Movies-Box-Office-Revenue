@@ -13,23 +13,16 @@ The data set consists of information on 8.000 films from 1990 until 2020. The in
 
 |Column | Description |	
 ------------- | -------------| 
-|Offer accepted	| Yes, No|
-|Reward	| Air Miles, Cash Back, Points|
-|Mailer type	|	Letter, Postcard|
-|Income level	|	High, Medium, Low|
-|Overdraft protection |	Yes, No|
-|Credit rating	|	High, Medium, Low
-|Own your home	|	Yes, No|
-|Customer number	| 1 to 18.000|
-|	Bank accounts open| 1 to 3|
-|	Credit cards held|	1 to 4|
-|	Homes owned|	1 to 3|
-| Household size|	1 to 9|
-|	Average balance|	48 to 3366|
-|	Q1 balance|	0 to 3450|
-|	Q2 balance|	0 to 3421|
-|	Q3 balance|	0 to 3823|
-|	Q4 balance|	0 to 4215|
+|Budget	| Sum of film production cost|
+|Popularity	| Ranking of popularity|
+|Runtime|	Lenght of film|
+|Vote average	|	Average movie rating|
+|Vote count |	Total movie ratings|
+|Month	|	Movie release month |
+|Genres	|	Movie genre|
+|Production companies	| Companies involved in the movie|
+|Director | Movie directoy|
+|	Original language|	Initial language of movie|
 
 ### Data processing
 
