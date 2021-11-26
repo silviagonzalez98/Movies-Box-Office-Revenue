@@ -8,10 +8,6 @@ The goal of this project is to build a regression model that is able to predict 
 
 I worked with a dataset that I got from IMDB API. After building the model, I analyzed another dataset for checking streaming content trends on Netflix and Amazon Prime (link : https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney).
 
-I wanted to understand which attributes of beauty products drive customer ratings. Products are rated on a scale from 1 to 5 stars.
-
-The goal of the classification project is to train a model to predict the rating of a product based on its attributes. The analysis is the base to identify gaps in the product range and therefore opportunities to create the next best-selling product for an e-commerce shop.
-
 ### Dataset
 The data set consists of information on 17,000 current bank customers in the study. The information of the datased includes both categorical and numerical variables to analyse indicated below.
 
@@ -34,6 +30,9 @@ The data set consists of information on 17,000 current bank customers in the stu
 |	Q2 balance|	0 to 3421|
 |	Q3 balance|	0 to 3823|
 |	Q4 balance|	0 to 4215|
+
+### Data processing
+
 
 ### Conclusions
 - Insight 1: Customers who accepted the offer generally have higher quarterly balances. <br /> 
