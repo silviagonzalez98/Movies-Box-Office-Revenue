@@ -1,5 +1,7 @@
 # Movies-Box-Office-Revenue
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen-stand.org%2Fopen-standards-finds-unlikely-sector-of-growth-in-the-world-of-cinema%2F&psig=AOvVaw2VYSqW4KEe0bDdw3akZbYa&ust=1638053747776000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODsnfGPt_QCFQAAAAAdAAAAABAD.png)
+
 The objective of this project is to build a model that is able to predict the rating of products in e-commerce and to find out what its need to put together the ideal product for a e-commerce shop.
 
 In order to do this, I used web scraping and made use of Python and Tableau.
@@ -42,7 +44,7 @@ The data set consists of information on 17,000 current bank customers in the stu
 
 ### Conclusions
 
-
+### Libraries
 
 Libraries
 ------------- |
