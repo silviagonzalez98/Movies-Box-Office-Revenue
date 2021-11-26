@@ -4,15 +4,14 @@ The objective of this project is to build a model that is able to predict the ra
 
 In order to do this, I used web scraping and made use of Python and Tableau.
 
-# About the project
+### About the project
 I worked with a dataset that I got from scraping the website of one of the leading beauty e-commerce companies in Europe.
 
 I wanted to understand which attributes of beauty products drive customer ratings. Products are rated on a scale from 1 to 5 stars.
 
 The goal of the classification project is to train a model to predict the rating of a product based on its attributes. The analysis is the base to identify gaps in the product range and therefore opportunities to create the next best-selling product for an e-commerce shop.
 
-# Dataset
-### Data
+### Dataset
 The data set consists of information on 17,000 current bank customers in the study. The information of the datased includes both categorical and numerical variables to analyse indicated below.
 
 **i) Categoricals**
@@ -41,7 +40,7 @@ The data set consists of information on 17,000 current bank customers in the stu
 |	Q3 balance|	0 to 3823|
 |	Q4 balance|	0 to 4215|
 
-# Conclusions
+### Conclusions
 
 
 ### Libraries
