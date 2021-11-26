@@ -13,16 +13,20 @@ The data set consists of information on 8.000 films from 1990 until 2020. The in
 
 |Column | Description |	
 ------------- | -------------| 
+|Title|	Name of the movie|
 |Budget	| Sum of film production cost|
+|Overview|	Description of the movie|
 |Popularity	| Ranking of popularity|
 |Runtime|	Lenght of film|
 |Vote average	|	Average movie rating|
 |Vote count |	Total movie ratings|
+|Cast |	Actors involved in the movie|
 |Month	|	Movie release month |
 |Genres	|	Movie genre|
 |Production companies	| Companies involved in the movie|
 |Director | Movie directoy|
 |	Original language|	Initial language of movie|
+|Keywords |	Attributes relationed to the movie|
 
 ### Data processing
 
