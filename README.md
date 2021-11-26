@@ -2,9 +2,10 @@
 
 <img src="https://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true.png" width="500" />
 
-The objective of this project is to build a model that is able to predict the revenue of films in box office and explore what features make a film a potential revenue success.
-
 ### About the project
+
+The goal of this project is to build a regression model that is able to predict the revenue of films in box office and explore what features make a film a potential revenue success.
+
 I worked with a dataset that I got from scraping the website of one of the leading beauty e-commerce companies in Europe.
 
 I wanted to understand which attributes of beauty products drive customer ratings. Products are rated on a scale from 1 to 5 stars.
