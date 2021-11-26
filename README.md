@@ -14,7 +14,7 @@ The goal of the classification project is to train a model to predict the rating
 ### Dataset
 The data set consists of information on 17,000 current bank customers in the study. The information of the datased includes both categorical and numerical variables to analyse indicated below.
 
-**i) Categoricals**
+**Categoricals**
 |Categoricals | Values |	
 ------------- | -------------| 
 |Offer accepted	| Yes, No|
@@ -25,7 +25,7 @@ The data set consists of information on 17,000 current bank customers in the stu
 |Credit rating	|	High, Medium, Low
 |Own your home	|	Yes, No|
 
-**ii) Numericals**
+**Numericals**
 
 |Numericals | Values  |	
 ------------- | -------------| 
