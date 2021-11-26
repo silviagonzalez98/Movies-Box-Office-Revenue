@@ -43,8 +43,9 @@ The data set consists of information on 17,000 current bank customers in the stu
 ### Conclusions
 
 
-### Libraries
 
+Libraries
+------------- |
 |	pandas as pd |	
 |	numpy as np |	
 |	warnings |	
