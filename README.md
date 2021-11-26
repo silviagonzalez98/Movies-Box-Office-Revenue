@@ -11,7 +11,7 @@ I worked with a dataset that I got from IMDB API. After building the model, I an
 ### Dataset
 The data set consists of information on 8.000 films from 1990 until 2020. The information of the datased includes both categorical and numerical variables to analyse indicated below:
 
-|Categoricals | Values |	
+|Column | Description |	
 ------------- | -------------| 
 |Offer accepted	| Yes, No|
 |Reward	| Air Miles, Cash Back, Points|
