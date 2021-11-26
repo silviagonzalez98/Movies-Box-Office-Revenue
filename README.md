@@ -6,7 +6,7 @@
 
 The goal of this project is to build a regression model that is able to predict the revenue of films in box office and explore what features make a film a potential revenue success.
 
-I worked with a dataset that I got from IMDB API. 
+I worked with a dataset that I got from TMDB API. 
 
 After building the model, I analyzed another dataset for checking streaming content trends on Netflix and Amazon Prime (link : https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney).
 
