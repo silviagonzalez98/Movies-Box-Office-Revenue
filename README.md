@@ -13,6 +13,7 @@ The data set consists of information on 8.000 films from 1990 until 2020. The in
 
 |Column | Description |	
 ------------- | -------------| 
+|ID|	Movie ID|
 |Title|	Name of the movie|
 |Budget	| Sum of film production cost|
 |Overview|	Description of the movie|
@@ -26,6 +27,7 @@ The data set consists of information on 8.000 films from 1990 until 2020. The in
 |Production companies	| Companies involved in the movie|
 |Director | Movie directoy|
 |	Original language|	Initial language of movie|
+|	Language|	Languages of movie|
 |Keywords |	Attributes relationed to the movie|
 
 ### Data processing
