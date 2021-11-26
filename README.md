@@ -2,9 +2,7 @@
 
 <img src="https://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true.png" width="500" />
 
-The objective of this project is to build a model that is able to predict the rating of products in e-commerce and to find out what its need to put together the ideal product for a e-commerce shop.
-
-In order to do this, I used web scraping and made use of Python and Tableau.
+The objective of this project is to build a model that is able to predict the revenue of films in box office and explore what features make a film a potential revenue success.
 
 ### About the project
 I worked with a dataset that I got from scraping the website of one of the leading beauty e-commerce companies in Europe.
