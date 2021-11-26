@@ -1,4 +1,4 @@
-# Movies-Box-Office-Revenue
+# Movies Revenue
 
 <img src="https://github.com/silviagonzalez98/Movies-Box-Office-Revenue/blob/main/images/descarga.jpeg?raw=true.png" width="500" />
 
