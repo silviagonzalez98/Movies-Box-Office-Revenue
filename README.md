@@ -21,11 +21,6 @@ The information of the datased includes both categorical and numerical variables
 |Title|	Name of the movie|
 |Budget	| Sum of film production cost|
 |Overview|	Description of the movie|
-|Popularity	| Ranking of popularity|
-|Runtime|	Lenght of film|
-|Vote average	|	Average movie rating|
-|Vote count |	Total movie ratings|
-|Revenue |	Total revenue of film|
 |Cast |	Actors involved in the movie|
 |Month	|	Movie release month |
 |Genres	|	Movie genre|
@@ -34,6 +29,11 @@ The information of the datased includes both categorical and numerical variables
 |	Original language|	Initial language of movie|
 |	Language|	Languages of movie|
 |Keywords |	Attributes relationed to the movie|
+|Popularity	| Ranking of popularity|
+|Runtime|	Lenght of film|
+|Vote average	|	Average movie rating|
+|Vote count |	Total movie ratings|
+|Revenue |	Total revenue of film|
 
 
 
