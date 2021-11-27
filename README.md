@@ -52,6 +52,7 @@ The information of the datased includes both categorical and numerical variables
 |Country	|	Movie production country |
 |	Language|	Languages of movie|
 |Runtime |	Length of movie|
+|IMDB |	Movie average rating|
 
 
 ### Data processing
