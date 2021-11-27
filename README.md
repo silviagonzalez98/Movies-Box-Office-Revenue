@@ -35,7 +35,39 @@ The information of the datased includes both categorical and numerical variables
 |Vote count |	Total movie ratings|
 |Revenue |	Total revenue of film|
 
-### Insights & Considerations to Select Next 2022 Film Portfolio
+### Project workflow
+
+1. Data extraction
+- File: a) data extraction - tmdb api.py
+- Extracted 8.000 films from TMDB API with 23 different features to analyze and predict box office revenue
+- Additionally, extracted an opensource dataset from Kaggle with streaming films to film market trends with tableau
+
+2. Data cleaning
+- File: b) data cleaning.ipynb
+- Manipulated dataframe from json format columns and deleted empty columns with Python
+- Prepared the dataset for the data visualization part.
+
+3. Data visualization
+- File: c) data visualization.ipynb
+- Visualized both numericals and categoricals variables to see influences on revenue
+- Categoricals: Explored most relevant features for revenue in each column to hot encode them
+- Concluded visually  most important categoricals to encode in EDA
+
+4. EDA & Regression Model
+- File: d) EDA & regression.ipynb
+- Exploratory data analysis
+- Data processing of numericals and one hot encoding of relevant categoricals based on data visualization
+- Feature engineering & Model evaluation
+- Results: LR: 0.8 / KNN = 0.72 / Random Forest: 0.81
+
+5. Presentation
+- File: Presentation l Final Project.pdf
+- Used Python work and Tableau for presenting the key findings on revenue features
+- Used Tableau to analyze trends from Kaggle dataset
+- Concluded with most important features to consider for selecting the next year portfolio of movies
+
+
+### Conclusions to Select Next 2022 Film Portfolio
 1. Revenue strong correlation with film budgets and vote count, while less relationship with film vote average
 2. Summer (June-July) and Christmas (November-December) best months to release a movie
 3. Warner Bros, Paramount, Universal Pictures, 20th Century Fox, Columbia Pictures: drive x2 average revenue film
