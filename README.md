@@ -67,7 +67,7 @@ The information of the datased includes both categorical and numerical variables
 - Concluded with most important features to consider for selecting the next year portfolio of movies
 
 
-### Conclusions to Select Next 2022 Film Portfolio
+### Conclusions to Select Next 2022 Film Portfolio: Revenue
 1. Revenue strong correlation with film budgets and vote count, while less relationship with film vote average
 2. Summer (June-July) and Christmas (November-December) best months to release a movie
 3. Warner Bros, Paramount, Universal Pictures, 20th Century Fox, Columbia Pictures: drive x2 average revenue film
