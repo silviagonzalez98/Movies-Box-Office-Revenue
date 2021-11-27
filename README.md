@@ -58,11 +58,15 @@ The information of the datased includes both categorical and numerical variables
 ### Data processing
 
 
-### Conclusions
-- Insight 1: Customers who accepted the offer generally have higher quarterly balances. <br /> 
-- Insight 2: There is definitely observed a huge jump in average balance from q1 to q2 for households with size 8, and the main reason is that there is only one customer in the dataset that represents household = 8, consequently moves all the metric. <br /> 
-- Insight 3: Customers that accepted the offer mostly had received a postcard, and had a low (and medium) credit rating. This results a key piece of information to encourage the bank to focus on prioritizing postcards and focusing on low to meidum credit rating customers. <br /> 
-- Insight 4: Categorizing by average balance, most customers (out of 18k) have a balance of 1.4k or less (13.8k customers between 701 to 1.4k balance, and 3.2k customers between 0 to 700 balance).
+### Conclusions: Considerations to Select Next 2022 Film Portfolio
+1. Revenue strong correlation with film budgets and vote count, whil less relationship with film vote average
+2. Summer (June-July) and Christmas (November-December) best months to release a movie
+3. Warner Bros, Paramount, Universal Pictures, 20th Century Fox, Columbia Pictures: drive x2 average revenue film
+than the rest
+4. Animation and Adventure genres demonstrated to be the most profitable and loved in the market. Music as
+possible potential genre if it had more budget
+5. Documentary as possible opportunity to further revenue growth. Drama streaming trend focus over last years.
+6. India boosting in the streaming content landscape and becoming most valued film country to focus on
 
 ### Libraries
 
