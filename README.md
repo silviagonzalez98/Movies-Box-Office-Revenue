@@ -25,14 +25,34 @@ The information of the datased includes both categorical and numerical variables
 |Runtime|	Lenght of film|
 |Vote average	|	Average movie rating|
 |Vote count |	Total movie ratings|
+|Revenue |	Total revenue of film|
 |Cast |	Actors involved in the movie|
 |Month	|	Movie release month |
 |Genres	|	Movie genre|
 |Production companies	| Companies involved in the movie|
-|Director | Movie directoy|
+|Director | Movie director|
 |	Original language|	Initial language of movie|
 |	Language|	Languages of movie|
 |Keywords |	Attributes relationed to the movie|
+
+
+
+|Column | Description |	
+------------- | -------------| 
+|ID|	Movie ID|
+|Title|	Name of the movie|
+|Year	| Movie release year|
+|Age|	Minimum age recomended watching|
+|Netflix	| Movie present in Neftlix (0/1)|
+|Hulu|	Movie present in Hulu (0/1)|
+|Prime Video	|	Movie present in Prime Video (0/1)|
+|Disney+ |	Movie present in Disney+ (0/1)|
+|Directors |	Movie director|
+|Genres	|	Movie genre|
+|Country	|	Movie production country |
+|	Language|	Languages of movie|
+|Runtime |	Length of movie|
+
 
 ### Data processing
 
