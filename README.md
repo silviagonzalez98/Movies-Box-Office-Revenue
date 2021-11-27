@@ -35,29 +35,6 @@ The information of the datased includes both categorical and numerical variables
 |Vote count |	Total movie ratings|
 |Revenue |	Total revenue of film|
 
-
-
-|Column | Description |	
-------------- | -------------| 
-|ID|	Movie ID|
-|Title|	Name of the movie|
-|Year	| Movie release year|
-|Age|	Minimum age recomended watching|
-|Netflix	| Movie present in Neftlix (0/1)|
-|Hulu|	Movie present in Hulu (0/1)|
-|Prime Video	|	Movie present in Prime Video (0/1)|
-|Disney+ |	Movie present in Disney+ (0/1)|
-|Directors |	Movie director|
-|Genres	|	Movie genre|
-|Country	|	Movie production country |
-|	Language|	Languages of movie|
-|Runtime |	Length of movie|
-|IMDB |	Movie average rating|
-
-
-### Data processing
-
-
 ### Conclusions: Considerations to Select Next 2022 Film Portfolio
 1. Revenue strong correlation with film budgets and vote count, whil less relationship with film vote average
 2. Summer (June-July) and Christmas (November-December) best months to release a movie
