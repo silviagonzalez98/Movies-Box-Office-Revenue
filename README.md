@@ -35,8 +35,8 @@ The information of the datased includes both categorical and numerical variables
 |Vote count |	Total movie ratings|
 |Revenue |	Total revenue of film|
 
-### Conclusions: Considerations to Select Next 2022 Film Portfolio
-1. Revenue strong correlation with film budgets and vote count, whil less relationship with film vote average
+### Insights & Considerations to Select Next 2022 Film Portfolio
+1. Revenue strong correlation with film budgets and vote count, while less relationship with film vote average
 2. Summer (June-July) and Christmas (November-December) best months to release a movie
 3. Warner Bros, Paramount, Universal Pictures, 20th Century Fox, Columbia Pictures: drive x2 average revenue film
 than the rest
